@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="orange_primary">#FF7A00</color>
+    <color name="orange_dark">#E85D04</color>
+    <color name="orange_light">#FFE8CC</color>
+    <color name="cream">#FFF8F0</color>
+    <color name="white">#FFFFFF</color>
+    <color name="text_primary">#2B2118</color>
+    <color name="text_secondary">#7A6A5C</color>
+
+    <color name="cat_healthy">#4CAF50</color>
+    <color name="cat_fast">#FF9800</color>
+    <color name="cat_sharing">#E53935</color>
+    <color name="cat_dessert">#EC7FA9</color>
+    <color name="cat_all">#7B61FF</color>
+</resources>
